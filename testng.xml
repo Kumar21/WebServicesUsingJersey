@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="Jersey_AutomationWebService1.Jersey_AutomationWebService1.module1.Jersey_Module1"/>
+ <!--      <class name="Jersey_AutomationWebService1.Jersey_AutomationWebService1.module2.Jersey_Module2"/>
+      <class name="Jersey_AutomationWebService1.Jersey_AutomationWebService1.module3.Jersey_Module3"/>  -->
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

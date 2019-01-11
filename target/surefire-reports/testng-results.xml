@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Jersey_AutomationWebService1.Jersey_AutomationWebService1.AppTest" duration-ms="4" started-at="2017-09-19T09:39:10Z" finished-at="2017-09-19T09:39:10Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="4" started-at="2017-09-19T09:39:10Z" finished-at="2017-09-19T09:39:10Z">
+    </test> <!-- Command line test -->
+  </suite> <!-- Jersey_AutomationWebService1.Jersey_AutomationWebService1.AppTest -->
+</testng-results>
